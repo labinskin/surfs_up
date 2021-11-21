@@ -6,9 +6,9 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ##### Results
 
-![]()
+![](https://github.com/labinskin/surfs_up/blob/main/june_summary.png)
 
-![]()
+![](https://github.com/labinskin/surfs_up/blob/main/december_summary.png)
 
 -The average temperature for June is 74.9 degrees, while the average temperature for December is 71.0 degrees. This is a 3.9 degree difference, meaning June is a warmer month on average.
 
